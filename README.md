@@ -1,0 +1,1 @@
+This is a user manual I created for Microsoft Excel, created using Scribus Open Source Desktop Publishing (https://www.scribus.net/).
